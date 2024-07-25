@@ -1,0 +1,30 @@
+Time=float(input('enter the Time')
+if(Time<12.00):
+ print('good morning')
+elif(Time>12.00):
+ if(Time>16.00 and Time<18.00):
+   print('good evening')
+ elseif(Time>18.00 and Time<23.00):
+   print('good night')
+ else:
+   print('good afternoon')
+else:
+ print('no Time wish')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
