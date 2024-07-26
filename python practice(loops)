@@ -1,0 +1,22 @@
+animals=['cat','dog','elephant','tiger','lion']
+#for loops use
+for animal in animals:  
+  print(animal)
+  #to print in the list
+  for i in animal:
+    print(i)
+#to print one by one words in list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
